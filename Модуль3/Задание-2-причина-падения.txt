@@ -1,0 +1,5 @@
+
+В таблице  BasisTree не смогли перейти к строке 
+      | 'Currency' | 'Price'  | 'Quantity' | 'Row presentation' | 'Unit' | 'Use' |
+      | 'TRY'      | '350,00' | '7,000'    | 'Shirt (36/Red)'   | 'pcs'  | 'No'  |
+и, соответственно,  не смогли найти значение 7 в колонке Quantity
