@@ -2,4 +2,6 @@
 !Задание-1-VAParams.json
 Features_IRP/**
 Модуль4/Files/**
+Internal/**
+External/**
 *.cfe
