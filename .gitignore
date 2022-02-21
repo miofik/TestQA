@@ -6,3 +6,4 @@ Internal/**
 External/**
 Instructions/**
 *.cfe
+allure/**
